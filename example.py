@@ -1,1 +1,2 @@
-print(1+1)
+print(12+4)
+print ("Hunter")
